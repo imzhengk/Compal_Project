@@ -1,8 +1,3 @@
-# E-Learning
-some learning resources
+# Compal_Project
 
-## Linux
-## Python
-## Django2.2
-## Mysql
 
